@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  /* TODO 1: Add purpose-named color, spacing, and radius tokens. */
+}
+
+/* TODO 2: Create a centered narrow-screen-safe page shell and form surface. */
+
+/* TODO 3: Style field spacing, labels, help, inputs, select, and button. */
+
+/* TODO 4: Add hover, focus-visible, user-invalid, and disabled states. */
+
+/* TODO 5: Override tokens for dark color preference. */
+
+/* TODO 6: Remove optional transitions for reduced-motion preference. */
