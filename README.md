@@ -31,3 +31,19 @@ Open `index.html` and edit only `styles.css`. The form is a local visual exercis
 ## Finish
 
 Test keyboard, touch emulation, invalid submission, light/dark preference, and reduced motion. Explain what each token means rather than what color it contains.
+
+<!-- mastery-kit:start -->
+## How to know you nailed it
+
+[![Mastery checks](https://github.com/kodenvibekenya/css-accessible-signup/actions/workflows/mastery.yml/badge.svg)](https://github.com/kodenvibekenya/css-accessible-signup/actions/workflows/mastery.yml)
+
+Open [MASTERY.md](MASTERY.md), then run:
+
+```sh
+node --test test/mastery.test.mjs
+```
+
+The untouched challenge is expected to start red. Keep the failures visible while you work; make the implementation satisfy the checks instead of deleting, skipping, or weakening them.
+
+A project is complete only when the automated checks, real-use/manual checks, and all three explain-back prompts pass. The [free KODE Ń VIBE mastery guide](https://kodenvibe.tech/notes/mastery/) explains why a green check alone is not enough.
+<!-- mastery-kit:end -->
